@@ -22,14 +22,18 @@ List<PortofolioPosts> myPortofolio = [
     url: 'https://github.com/FatihSeida/flutter_github',
   ),
   PortofolioPosts(
-    title: 'Komisains App',
-    description:
-        'Create Komisains App. the reason why i built this app because i wanna contribute something to my organization (HMI), because of that i try to do my best using my observation to know the requirement of this app so i built this app in 15days and tried to use Provider state management. The details, it just fetch some data from API like news, training information, agenda, e-books, and many more.',
-    url: 'https://github.com/FatihSeida/komisains_app'
-  ),
+      title: 'Komisains App',
+      description:
+          'Create Komisains App. the reason why i built this app because i wanna contribute something to my organization (HMI), because of that i try to do my best using my observation to know the requirement of this app so i built this app in 15days and tried to use Provider state management. The details, it just fetch some data from API like news, training information, agenda, e-books, and many more.',
+      url: 'https://github.com/FatihSeida/komisains_app'),
   PortofolioPosts(
-    title: 'Instagram Neumorphism UI (Redesign UI Instagram)',
-    description: 'My 80% project, i can\'t continue this project because i need to upgrade my firebase first to using the cloud Functions. i created this app for practice my BLoC State Management Skills and UI Design Skills',
-    url: 'https://github.com/FatihSeida/instagram_redesign_ui_neumorphism'
-  ),
+      title: 'Instagram Neumorphism UI (Redesign UI Instagram)',
+      description:
+          'My 80% project, i can\'t continue this project because i need to upgrade my firebase first to using the cloud Functions. i created this app for practice my BLoC State Management Skills and UI Design Skills',
+      url: 'https://github.com/FatihSeida/instagram_redesign_ui_neumorphism'),
+  PortofolioPosts(
+      title: 'Awesome App (Practice Unit Testing & Instrumental Testing)',
+      description:
+          'Awesome app using API from pexels.com, this project goals is have a well tested either the unit or instrumental, but i\'m still practice this need some works',
+      url: 'https://github.com/FatihSeida/flutter_awesome_app'),
 ];
