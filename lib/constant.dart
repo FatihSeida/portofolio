@@ -8,5 +8,6 @@ const kBadgeColor = Color(0xFFD96139);
 const kGrayColor = Color(0xFF8793B2);
 const kTitleTextColor = Color(0xFF30384D);
 const kTextColor = Color(0xFF4D5875);
+const kTextColorr = Color(0xFF4D5875);
 
 const kDefaultPadding = 20.0;
